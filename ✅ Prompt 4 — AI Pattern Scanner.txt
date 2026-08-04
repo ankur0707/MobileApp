@@ -1,0 +1,93 @@
+Design the fourth screen of a professional Windows desktop software called
+
+AI Pattern Analyzer Pro
+
+Screen Name
+
+AI Pattern Scanner
+
+This is NOT a website.
+This is NOT a mobile app.
+
+Create a premium desktop interface inspired by
+
+• Bloomberg Terminal
+• TradingView Desktop
+• Quantower
+• Bookmap
+
+Resolution
+
+1920×1080
+
+Theme
+
+Professional Dark
+
+Accent
+
+Blue
+
+Style
+
+Modern
+Minimal
+Premium
+Glassmorphism
+High Information Density
+Pixel Perfect
+
+=========================================================
+PURPOSE
+=========================================================
+
+This screen continuously scans the entire market.
+
+The AI automatically searches every connected broker and exchange.
+
+The scanner detects candle patterns, indicator combinations, breakout setups, reversal patterns and high probability opportunities.
+
+=========================================================
+LAYOUT
+=========================================================
+
++----------------------------------------------------------------------------------------------------------------+
+| Logo | Scanner | Broker | Market | Symbols | Timeframes | Filters | Scan | Pause | Export | User |
++----------------------------------------------------------------------------------------------------------------+
+
+| Scanner Control | Live Scan Results Table | AI Opportunity Panel |
+|                 |                         |                      |
+|                 |                         |                      |
+|                 |                         |                      |
+|                 |                         |                      |
+|                 |                         |                      |
++----------------------------------------------------------------------------------------------------------------+
+
+| Bottom Panel : Scanner Logs | Alerts | Preview | Queue | History |
++----------------------------------------------------------------------------------------------------------------+
+
+=========================================================
+LEFT PANEL
+=========================================================
+
+Scanner Controls
+
+Broker
+
+Exchange
+
+Market Type
+
+Stocks
+
+Crypto
+
+Forex
+
+Futures
+
+Indices
+
+Commodity
+
+Timeframes

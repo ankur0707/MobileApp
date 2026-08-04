@@ -1,0 +1,234 @@
+Design a premium desktop application screen called
+
+Strategy Builder & Backtesting Studio
+
+for AI Pattern Analyzer Pro.
+
+This is NOT a website.
+This is NOT a mobile application.
+
+Resolution:
+1920×1080
+
+Theme:
+Professional Dark
+
+Accent Color:
+Blue
+
+Style:
+Glassmorphism
+
+Institutional Grade
+
+Inspired by
+
+• TradingView Strategy Tester
+• Quantower
+• MetaTrader 5
+• NinjaTrader
+• Bloomberg Terminal
+
+=========================================================
+PURPOSE
+=========================================================
+
+Allow users to build trading strategies visually without coding.
+
+The strategy should be tested automatically against millions of historical candles using the AI Pattern Database.
+
+=========================================================
+LAYOUT
+=========================================================
+
++------------------------------------------------------------------------------------------------+
+| Logo | Strategy | Backtest | Optimize | Save | Load | Export | AI | User |
++------------------------------------------------------------------------------------------------+
+
+| Left Builder |                    Backtest Chart                    | Right Results Panel |
+|              |                                                      |                     |
+|              |                                                      |                     |
+|              |                                                      |                     |
+|              |                                                      |                     |
++--------------+------------------------------------------------------+---------------------+
+
+| Bottom Panel : Trade List | Statistics | Equity Curve | Logs | Optimization |
++------------------------------------------------------------------------------------------------+
+
+=========================================================
+LEFT PANEL
+=========================================================
+
+Strategy Name
+
+Entry Conditions
+
+Exit Conditions
+
+Indicators
+
+Pattern Conditions
+
+AI Pattern Match
+
+Risk Rules
+
+Position Size
+
+Stop Loss
+
+Take Profit
+
+Trailing Stop
+
+Time Filters
+
+Volume Filters
+
+Custom Rules
+
+=========================================================
+CENTER PANEL
+=========================================================
+
+Professional Candlestick Chart
+
+Replay Controls
+
+Entry Marks
+
+Exit Marks
+
+Buy Labels
+
+Sell Labels
+
+Profit Zones
+
+Loss Zones
+
+Risk Reward Tool
+
+Indicators
+
+Drawing Tools
+
+=========================================================
+RIGHT PANEL
+=========================================================
+
+Net Profit
+
+Win Rate
+
+Loss Rate
+
+Profit Factor
+
+Maximum Drawdown
+
+Average Trade
+
+Sharpe Ratio
+
+Expectancy
+
+Recovery Factor
+
+Average Holding Time
+
+AI Score
+
+=========================================================
+BOTTOM PANEL
+=========================================================
+
+Trade History
+
+Equity Curve
+
+Performance Metrics
+
+Optimization Results
+
+Strategy Logs
+
+Parameter Comparison
+
+=========================================================
+BACKTEST FEATURES
+=========================================================
+
+Single Symbol
+
+Multiple Symbols
+
+Multiple Timeframes
+
+Walk Forward Analysis
+
+Monte Carlo Simulation
+
+Parameter Optimization
+
+Genetic Optimization
+
+AI Optimization
+
+=========================================================
+AI FEATURES
+=========================================================
+
+Suggest Better Strategy
+
+Detect Weak Rules
+
+Optimize Parameters
+
+Improve Win Rate
+
+Improve Risk Reward
+
+Highlight Bad Trades
+
+Suggest Better Exit
+
+Suggest Better Entry
+
+=========================================================
+MICRO INTERACTIONS
+=========================================================
+
+Animated Equity Curve
+
+Hover Statistics
+
+Resizable Panels
+
+Dockable Windows
+
+Expandable Tables
+
+Smooth Chart Animations
+
+=========================================================
+STATUS BAR
+=========================================================
+
+Backtest Progress
+
+Database Status
+
+CPU
+
+RAM
+
+GPU
+
+AI Engine
+
+Current Symbol
+
+Current Timeframe
+
+================================================

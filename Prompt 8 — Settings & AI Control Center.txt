@@ -1,0 +1,345 @@
+Design the eighth screen of a professional Windows desktop software called
+
+AI Pattern Analyzer Pro
+
+Screen Name
+
+Settings & AI Control Center
+
+This is NOT a website.
+This is NOT a mobile app.
+
+Create a premium Windows desktop application inspired by
+
+• Bloomberg Terminal
+• TradingView Desktop
+• Quantower
+• Bookmap
+
+Resolution
+
+1920 × 1080
+
+Theme
+
+Professional Dark
+
+Accent
+
+Blue
+
+Style
+
+Modern
+Glassmorphism
+Institutional Grade
+Pixel Perfect
+High Information Density
+
+=========================================================
+PURPOSE
+=========================================================
+
+This screen is the complete control center of the software.
+
+The user can configure
+
+AI
+
+Scanner
+
+Pattern Matching
+
+Broker APIs
+
+TradingView
+
+Database
+
+Appearance
+
+Notifications
+
+Performance
+
+Security
+
+Plugins
+
+Backup
+
+Updates
+
+Logs
+
+Everything is managed from this single professional control panel.
+
+=========================================================
+LAYOUT
+=========================================================
+
++----------------------------------------------------------------------------------------------------------------------+
+| Logo | Settings | Search Settings | Import | Export | Backup | Restore | User |
++----------------------------------------------------------------------------------------------------------------------+
+
+| Left Navigation | Main Settings Workspace | Live Preview |
+|                 |                         |              |
+|                 |                         |              |
+|                 |                         |              |
+|                 |                         |              |
++----------------------------------------------------------------------------------------------------------------------+
+
+| Bottom Panel : Logs | System Info | Updates | License | About |
++----------------------------------------------------------------------------------------------------------------------+
+
+=========================================================
+LEFT MENU
+=========================================================
+
+General
+
+Appearance
+
+AI Engine
+
+Pattern Matching
+
+Scanner
+
+Historical Database
+
+Broker APIs
+
+TradingView
+
+Risk Management
+
+Notifications
+
+Hotkeys
+
+Performance
+
+Plugins
+
+Backup
+
+Security
+
+Updates
+
+License
+
+About
+
+=========================================================
+GENERAL
+=========================================================
+
+Language
+
+Timezone
+
+Date Format
+
+Theme
+
+Font Size
+
+Auto Save
+
+Auto Start
+
+Recent Projects
+
+Default Workspace
+
+=========================================================
+AI ENGINE
+=========================================================
+
+AI Confidence Threshold
+
+Pattern Similarity %
+
+Maximum Search Depth
+
+Learning Mode
+
+Online Learning
+
+Offline Learning
+
+Model Selection
+
+GPU Acceleration
+
+CPU Threads
+
+Cache Size
+
+=========================================================
+SCANNER
+=========================================================
+
+Default Symbols
+
+Default Timeframes
+
+Multi Timeframe Scan
+
+Auto Scan
+
+Scan Interval
+
+Minimum Match Score
+
+Historical Depth
+
+Ignore Low Volume
+
+=========================================================
+BROKER SETTINGS
+=========================================================
+
+Default Broker
+
+Auto Connect
+
+Reconnect
+
+API Timeout
+
+API Retry Count
+
+Paper Trading
+
+Live Trading
+
+=========================================================
+TRADINGVIEW
+=========================================================
+
+Webhook URL
+
+Webhook Secret
+
+Webhook Status
+
+Alert Format
+
+Webhook Logs
+
+=========================================================
+DATABASE
+=========================================================
+
+Database Location
+
+Backup Folder
+
+Auto Backup
+
+Compression
+
+Repair Database
+
+Optimize Database
+
+=========================================================
+PERFORMANCE
+=========================================================
+
+Memory Usage
+
+CPU Usage
+
+GPU Usage
+
+Database Cache
+
+Thread Count
+
+FPS
+
+=========================================================
+SECURITY
+=========================================================
+
+Master Password
+
+API Encryption
+
+Session Timeout
+
+Auto Lock
+
+Two Factor Authentication
+
+=========================================================
+RIGHT PANEL
+=========================================================
+
+Live Preview
+
+Theme Preview
+
+Chart Preview
+
+Layout Preview
+
+Color Preview
+
+=========================================================
+BOTTOM TABS
+=========================================================
+
+System Logs
+
+Application Logs
+
+Error Logs
+
+Updates
+
+License
+
+About
+
+=========================================================
+BUTTONS
+=========================================================
+
+Save
+
+Apply
+
+Reset
+
+Restore Default
+
+Import Settings
+
+Export Settings
+
+Backup Now
+
+Restore Backup
+
+=========================================================
+STYLE
+=========================================================
+
+Professional Trading Software
+
+Dark Theme
+
+Blue Accent
+
+Premium Glass Cards
+
+Rounded Panels
+
+Institutional Grade UI
+
+Everything should look like configuration software used by professional quantitative trading firms.

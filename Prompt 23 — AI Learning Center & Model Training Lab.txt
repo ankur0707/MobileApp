@@ -1,0 +1,106 @@
+Design a premium desktop application screen called
+
+AI Learning Center & Model Training Lab
+
+for AI Pattern Analyzer Pro.
+
+This is NOT a website.
+This is NOT a mobile application.
+
+Resolution:
+1920×1080
+
+Theme:
+Professional Dark
+
+Accent Color:
+Blue
+
+Style:
+Glassmorphism
+
+Institutional Grade
+
+Inspired by
+
+• TensorBoard
+• DataRobot
+• Bloomberg Terminal
+• QuantConnect
+• OpenAI Dashboard
+
+=========================================================
+PURPOSE
+=========================================================
+
+Allow users to train, evaluate, and manage AI models that learn from historical chart patterns.
+
+The system should support multiple AI models, training datasets, feature engineering, hyperparameter tuning, validation, and model comparison.
+
+=========================================================
+LAYOUT
+=========================================================
+
+Top Bar:
+Project | Dataset | Train | Stop | Export Model | Deploy | AI Status
+
+Left Panel:
+Datasets
+Feature Engineering
+Training Jobs
+Saved Models
+Experiments
+Validation Sets
+Model Versions
+
+Center:
+Training Progress
+Loss Curve
+Accuracy Curve
+Confusion Matrix
+Feature Importance
+Epoch Timeline
+Training Console
+
+Right Panel:
+Model Details
+Accuracy
+Precision
+Recall
+F1 Score
+Prediction Confidence
+Training Time
+Dataset Size
+
+Bottom:
+Training Logs
+Experiments
+Evaluation
+Errors
+GPU Monitor
+
+=========================================================
+AI FEATURES
+=========================================================
+
+Pattern Learning
+
+Transfer Learning
+
+Incremental Learning
+
+Auto Retraining
+
+Model Comparison
+
+Model Ranking
+
+Feature Selection
+
+Auto Optimization
+
+=========================================================
+DESIGN GOAL
+=========================================================
+
+Create an institutional AI laboratory where traders continuously improve their prediction models using historical market data.

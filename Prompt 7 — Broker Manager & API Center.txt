@@ -1,0 +1,153 @@
+Design the seventh screen of a professional Windows desktop software called
+
+AI Pattern Analyzer Pro
+
+Screen Name
+
+Broker Manager & API Center
+
+This is NOT a website.
+This is NOT a mobile app.
+
+Create a premium Windows desktop interface inspired by
+
+• Bloomberg Terminal
+• TradingView Desktop
+• Quantower
+• Bookmap
+
+Resolution
+
+1920 × 1080
+
+Theme
+
+Professional Dark
+
+Accent
+
+Blue
+
+Style
+
+Modern
+Glassmorphism
+Institutional Grade
+High Information Density
+Pixel Perfect
+
+=========================================================
+PURPOSE
+=========================================================
+
+This screen manages every broker connection.
+
+The user can connect multiple brokers simultaneously.
+
+The software automatically synchronizes
+
+Account
+
+Balance
+
+Orders
+
+Positions
+
+Watchlists
+
+Historical Data
+
+Live Market Data
+
+Open Trades
+
+API Health
+
+=========================================================
+LAYOUT
+=========================================================
+
++----------------------------------------------------------------------------------------------------------------------+
+| Logo | Broker Manager | Connected Brokers | Add Broker | Refresh | Export | Settings | User |
++----------------------------------------------------------------------------------------------------------------------+
+
+| Broker List | Account Details | Connection Status |
+|             |                 |                   |
+|             |                 |                   |
+|             |                 |                   |
+|             |                 |                   |
++----------------------------------------------------------------------------------------------------------------------+
+
+| Bottom Panel : API Logs | Orders | Positions | Accounts | Diagnostics |
++----------------------------------------------------------------------------------------------------------------------+
+
+=========================================================
+LEFT PANEL
+=========================================================
+
+Supported Brokers
+
+Zerodha
+
+Upstox
+
+Angel One
+
+Binance
+
+Bybit
+
+Interactive Brokers
+
+MetaTrader 5
+
+TradingView
+
+Alpaca
+
+Paper Trading
+
+Custom Broker API
+
+Buttons
+
+Connect
+
+Disconnect
+
+Reconnect
+
+Edit
+
+Delete
+
+Test Connection
+
+=========================================================
+CENTER PANEL
+=========================================================
+
+Broker Information
+
+Broker Logo
+
+Connection Status
+
+Broker Name
+
+Account ID
+
+Client Name
+
+Account Type
+
+Currency
+
+Server
+
+Region
+
+Available Balance
+
+Used Margin

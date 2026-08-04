@@ -1,0 +1,93 @@
+Design a premium desktop application screen called
+
+AI Learning & Model Training Center
+
+for AI Pattern Analyzer Pro.
+
+This is NOT a website.
+This is NOT a mobile app.
+
+Resolution:
+1920×1080
+
+Theme:
+Professional Dark
+
+Accent Color:
+Blue
+
+Style:
+Glassmorphism
+
+Institutional Grade
+
+Inspired by
+
+• Bloomberg Terminal
+• TensorBoard
+• DataRobot
+• H2O AI
+• QuantConnect Research
+• TradingView Desktop
+
+=========================================================
+PURPOSE
+=========================================================
+
+This screen is the AI Brain of the software.
+
+Here the AI continuously learns from every historical pattern, every completed trade, every prediction, and every market outcome.
+
+Users can monitor, train, evaluate, optimize, and improve the AI model.
+
+=========================================================
+LAYOUT
+=========================================================
+
++----------------------------------------------------------------------------------------------------+
+| Logo | Dataset | Train | Stop | Evaluate | Export Model | Import Model | AI Status | User |
++----------------------------------------------------------------------------------------------------+
+
+| Left Control |                  AI Training Dashboard                 | Right AI Statistics |
+|              |                                                        |                     |
+|              |                                                        |                     |
+|              |                                                        |                     |
+|              |                                                        |                     |
++--------------+--------------------------------------------------------+---------------------+
+
+| Bottom Panel : Training Logs | Learning History | Dataset | Errors | Model Versions |
++----------------------------------------------------------------------------------------------------+
+
+=========================================================
+LEFT PANEL
+=========================================================
+
+Dataset Manager
+
+Training Dataset
+
+Validation Dataset
+
+Testing Dataset
+
+Feature Engineering
+
+Pattern Labels
+
+Indicator Selection
+
+Training Settings
+
+Epochs
+
+Batch Size
+
+Learning Rate
+
+Auto Train
+
+Manual Train
+
+=========================================================
+CENTER PANEL
+================================================

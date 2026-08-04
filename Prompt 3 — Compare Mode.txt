@@ -1,0 +1,289 @@
+Design the third screen of a professional Windows desktop software called
+
+AI Pattern Analyzer Pro
+
+Screen Name:
+
+AI Pattern Compare Mode
+
+This is NOT a website.
+This is NOT a mobile app.
+
+Design a premium desktop interface inspired by
+
+• Bloomberg Terminal
+• TradingView Desktop
+• Quantower
+• Bookmap
+
+Resolution
+
+1920 × 1080
+
+Theme
+
+Dark Professional
+
+Accent
+
+Blue
+
+Style
+
+Modern
+Premium
+Glassmorphism
+High Information Density
+Pixel Perfect
+
+=========================================================
+PURPOSE
+=========================================================
+
+The trader wants to compare the currently selected chart pattern with multiple historical matched patterns.
+
+The AI should visually compare every pattern and explain why they are similar or different.
+
+=========================================================
+LAYOUT
+=========================================================
+
++----------------------------------------------------------------------------------------------------------------+
+| Back | Current Pattern | Compare Mode | Search | Filters | Export | AI Score | User |
++----------------------------------------------------------------------------------------------------------------+
+
+| Current Chart | Historical Match 1 | Historical Match 2 | Historical Match 3 |
+|               |                    |                    |                    |
+|               |                    |                    |                    |
+|               |                    |                    |                    |
+|               |                    |                    |                    |
++----------------------------------------------------------------------------------------------------------------+
+
+| AI Comparison Report | Statistics | Similarity Breakdown | AI Notes |
++----------------------------------------------------------------------------------------------------------------+
+
+=========================================================
+TOP TOOLBAR
+=========================================================
+
+Back
+
+Current Symbol
+
+Timeframe
+
+Pattern Length
+
+Number of Compared Charts
+
+Search
+
+Filter
+
+Export
+
+Save Comparison
+
+Print
+
+=========================================================
+MAIN COMPARISON AREA
+=========================================================
+
+Display
+
+Current Selected Pattern
+
++
+
+3 Historical Matches
+
+Each chart should include
+
+Candlesticks
+
+EMA
+
+RSI
+
+MACD
+
+Volume
+
+Crosshair
+
+Zoom
+
+Pan
+
+Drawing Tools
+
+Hover Candle Information
+
+Similarity %
+
+Pattern Name
+
+Pattern ID
+
+Symbol
+
+Date
+
+Timeframe
+
+Outcome
+
+=========================================================
+AI COMPARISON PANEL
+=========================================================
+
+Show
+
+Overall Similarity
+
+Pattern Quality
+
+AI Confidence
+
+Breakout Probability
+
+Breakdown Probability
+
+Sideways Probability
+
+Risk Score
+
+Expected Move
+
+Average Move
+
+Maximum Move
+
+Minimum Move
+
+Holding Time
+
+Historical Win Rate
+
+Historical Loss Rate
+
+Reliability Score
+
+=========================================================
+PATTERN DIFFERENCE ANALYSIS
+=========================================================
+
+AI automatically highlights
+
+Matching Candles
+
+Different Candles
+
+EMA Difference
+
+RSI Difference
+
+MACD Difference
+
+Volume Difference
+
+Support Difference
+
+Resistance Difference
+
+Trend Difference
+
+Momentum Difference
+
+=========================================================
+BOTTOM PANEL
+=========================================================
+
+Tab 1
+
+Pattern Comparison
+
+Tab 2
+
+Indicator Comparison
+
+Tab 3
+
+Historical Outcomes
+
+Tab 4
+
+Trade Examples
+
+Tab 5
+
+AI Explanation
+
+=========================================================
+RIGHT AI PANEL
+=========================================================
+
+Natural Language Explanation
+
+Example
+
+"Pattern 2 is 96.4% similar."
+
+"Only volume differs."
+
+"EMA alignment is identical."
+
+"Historical breakout probability 82%."
+
+"Average move after breakout 6.8%."
+
+"Average holding period 14 candles."
+
+=========================================================
+INTERACTION
+=========================================================
+
+Drag & Drop
+
+Zoom
+
+Hover
+
+Resizable Panels
+
+Fullscreen
+
+Compare 2 Charts
+
+Compare 4 Charts
+
+Compare 6 Charts
+
+Keyboard Shortcuts
+
+=========================================================
+STYLE
+=========================================================
+
+Professional Trading Theme
+
+Glass Cards
+
+Dark Background
+
+Blue Accent
+
+Green Bullish
+
+Red Bearish
+
+Rounded Panels
+
+Soft Shadows
+
+Premium Typography
+
+High Information Density
+
+Everything must look like institutional trading software used by hedge funds and proprietary trading firms.

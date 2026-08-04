@@ -1,0 +1,225 @@
+Design a premium desktop application screen called:
+
+Multi-Chart Workspace
+
+for a professional trading software named
+
+AI Pattern Analyzer Pro
+
+IMPORTANT
+
+This is NOT a website.
+This is NOT a mobile application.
+
+Design a professional Windows desktop trading workspace inspired by
+
+• Bloomberg Terminal
+• TradingView Desktop
+• Quantower
+• Sierra Chart
+• Bookmap
+• MetaTrader 5
+
+Resolution:
+1920×1080
+
+Theme:
+Professional Dark
+
+Accent Color:
+Blue
+
+Style:
+Glassmorphism
+
+Institutional Grade
+
+Pixel Perfect
+
+=========================================================
+PURPOSE
+=========================================================
+
+This screen allows traders to monitor multiple charts simultaneously while using AI Pattern Analysis.
+
+The interface should maximize chart visibility while keeping AI tools accessible.
+
+=========================================================
+LAYOUT
+=========================================================
+
++------------------------------------------------------------------------------------------------------+
+| Logo | Broker | Account | Symbol | Timeframe | Layout | Search | Alerts | User | Connection Status |
++------------------------------------------------------------------------------------------------------+
+
+| Sidebar |                         Multi Chart Workspace (70%)                     | AI Panel (30%) |
+|         |                                                                        |                |
+|         |      Chart 1                 |               Chart 2                    |                |
+|         |------------------------------|------------------------------------------|                |
+|         |      Chart 3                 |               Chart 4                    |                |
+|         |                                                                        |                |
++---------+------------------------------------------------------------------------+----------------+
+
+| Bottom Panel : Match Gallery | Alerts | Research | Scanner | Logs | Trade History |
++------------------------------------------------------------------------------------------------------+
+
+| Status Bar                                                                               Time        |
++------------------------------------------------------------------------------------------------------+
+
+=========================================================
+LEFT SIDEBAR
+=========================================================
+
+Dashboard
+
+Trading Terminal
+
+Multi Chart
+
+Pattern Scanner
+
+Historical Matches
+
+Pattern Compare
+
+Research
+
+Portfolio
+
+Trade Journal
+
+Replay
+
+Broker Manager
+
+Settings
+
+Help
+
+=========================================================
+TOP TOOLBAR
+=========================================================
+
+Broker Selector
+
+Account Selector
+
+Current Symbol
+
+Timeframe
+
+Chart Layout Selector
+
+Search
+
+Alerts
+
+Notifications
+
+User Profile
+
+Settings
+
+Connection Status
+
+=========================================================
+MULTI CHART AREA
+=========================================================
+
+Display FOUR synchronized professional candlestick charts.
+
+Arrange charts in a 2×2 Grid.
+
+Each chart contains:
+
+Candlesticks
+
+Volume
+
+EMA
+
+VWAP
+
+RSI
+
+MACD
+
+ATR
+
+Grid
+
+Crosshair
+
+Price Scale
+
+Time Scale
+
+Current Price
+
+OHLC Values
+
+Chart Title
+
+Symbol
+
+Timeframe
+
+Spread
+
+Chart Sync Toggle
+
+Lock Scale
+
+Full Screen
+
+Detach Window
+
+Screenshot Button
+
+=========================================================
+DRAWING TOOLBAR
+=========================================================
+
+Floating vertical toolbar.
+
+Trend Line
+
+Horizontal Line
+
+Vertical Line
+
+Rectangle
+
+Circle
+
+Arrow
+
+Brush
+
+Text
+
+Risk Reward Tool
+
+Measurement Tool
+
+Fibonacci Retracement
+
+Fibonacci Extension
+
+Pitchfork
+
+Channels
+
+Magnet Mode
+
+Snap Mode
+
+Delete Drawing
+
+Undo
+
+Redo
+
+=========================================================
+CHART INTERACTIONS
+================================================

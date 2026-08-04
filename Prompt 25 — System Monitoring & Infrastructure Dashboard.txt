@@ -1,0 +1,99 @@
+Design a premium desktop application screen called
+
+System Monitoring & Infrastructure Dashboard
+
+for AI Pattern Analyzer Pro.
+
+Resolution:
+1920×1080
+
+Professional Dark Theme
+
+Blue Accent
+
+Inspired by
+
+Grafana
+Datadog
+Bloomberg Terminal
+Windows Performance Monitor
+
+=========================================================
+
+PURPOSE
+
+Monitor the health and performance of the entire trading platform in real time.
+
+=========================================================
+
+FEATURES
+
+CPU Usage
+
+RAM Usage
+
+GPU Usage
+
+Disk Usage
+
+Database Status
+
+Broker Connection
+
+WebSocket Status
+
+TradingView Connection
+
+Scanner Status
+
+AI Engine Status
+
+Background Tasks
+
+API Latency
+
+Execution Queue
+
+Error Logs
+
+Performance Timeline
+
+Alerts
+
+Health Score
+
+=========================================================
+
+VISUALS
+
+Real-Time Line Charts
+
+Gauge Meters
+
+Heatmaps
+
+Health Cards
+
+Timeline
+
+Event Stream
+
+=========================================================
+
+BOTTOM PANEL
+
+System Logs
+
+Warnings
+
+Errors
+
+Background Jobs
+
+Performance History
+
+=========================================================
+
+DESIGN GOAL
+
+Design a professional operations dashboard that allows traders and developers to monitor every component of the AI Pattern Analyzer Pro platform in real time.

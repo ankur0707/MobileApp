@@ -1,0 +1,376 @@
+Design the MAIN SCREEN of a professional desktop software called
+
+AI Pattern Analyzer Pro
+
+This is NOT a mobile app.
+This is NOT a website.
+
+This is a premium Windows desktop trading terminal inspired by:
+
+• Bloomberg Terminal
+• TradingView Desktop
+• Quantower
+• Sierra Chart
+• Bookmap
+
+The software should look like a commercial product sold to professional traders.
+
+Resolution:
+1920×1080 Desktop
+
+Theme:
+Dark Professional
+
+Accent Color:
+Blue
+
+Style:
+Minimal
+Modern
+Premium
+Glassmorphism
+High Information Density
+Pixel Perfect
+Professional Trading Workspace
+
+=========================================================
+MAIN LAYOUT
+=========================================================
+
+The layout should follow this exact structure.
+
++--------------------------------------------------------------------------------------------------------------+
+| LOGO | Broker | Account | Symbol | Timeframe | Search | Alerts | AI Status | User | Settings | Connection |
++--------------------------------------------------------------------------------------------------------------+
+
+| Sidebar |                               MAIN CHART WORKSPACE                              | AI RIGHT PANEL |
+|         |                                                                                |               |
+|         |                                                                                |               |
+|         |                                                                                |               |
+|         |                                                                                |               |
+|         |                                                                                |               |
+|         |                                                                                |               |
+|         |                                                                                |               |
+|         |                                                                                |               |
++---------+--------------------------------------------------------------------------------+---------------+
+
+| Bottom Workspace (Tabbed)                                                                     |
+| Historical Matches | Preview | Research | Logs | Trades | AI Analysis | Scanner | Alerts     |
++--------------------------------------------------------------------------------------------------------------+
+
+| Status Bar                                                                            Local Time |
++--------------------------------------------------------------------------------------------------------------+
+
+=========================================================
+TOP BAR
+=========================================================
+
+Professional desktop toolbar containing
+
+Software Logo
+
+Broker Selector
+
+Broker Connection Status
+
+Connected Account
+
+Current Balance
+
+Current Symbol
+
+Watchlist Dropdown
+
+Timeframe Selector
+
+Search Bar
+
+Notification Bell
+
+AI Engine Status
+
+CPU Usage
+
+RAM Usage
+
+Cloud Sync Status
+
+Settings
+
+User Avatar
+
+=========================================================
+LEFT SIDEBAR
+=========================================================
+
+Collapsed professional icon navigation.
+
+Dashboard
+
+Chart
+
+Scanner
+
+Pattern Library
+
+Historical Database
+
+Research
+
+Portfolio
+
+Trade Journal
+
+Paper Trading
+
+Broker Manager
+
+Reports
+
+Alerts
+
+Learning AI
+
+Settings
+
+Help
+
+=========================================================
+CENTER WORKSPACE (70%)
+=========================================================
+
+Large TradingView-style Candlestick Chart.
+
+This chart is the heart of the application.
+
+Features:
+
+Zoom
+
+Pan
+
+Crosshair
+
+Drawing Tools
+
+Trendline
+
+Rectangle
+
+Ellipse
+
+Fibonacci
+
+Horizontal Line
+
+Vertical Line
+
+Ray
+
+Text
+
+Arrow
+
+Risk Reward Tool
+
+Brush
+
+Magnet
+
+Undo
+
+Redo
+
+Indicator Button
+
+Timeframe Button
+
+Compare Symbol
+
+Fullscreen
+
+Screenshot
+
+Replay
+
+Grid Toggle
+
+Price Scale
+
+Volume Panel
+
+Indicator Panel
+
+Mouse Wheel Zoom
+
+Drag Navigation
+
+The chart should occupy approximately 70% of the screen.
+
+=========================================================
+PATTERN SELECTION MODE
+=========================================================
+
+The user can select any candles directly on the chart using the mouse.
+
+After selection:
+
+The selected candles become highlighted.
+
+Selection toolbar appears.
+
+Toolbar includes:
+
+Analyze Pattern
+
+Save Pattern
+
+Compare
+
+Research
+
+Cancel
+
+The selected area should glow.
+
+=========================================================
+CHART PREVIEW STRIP
+=========================================================
+
+Below the main chart show a horizontal strip containing
+
+Recent selected charts
+
+Saved templates
+
+Recent pattern previews
+
+Quick comparison previews
+
+Clicking any preview instantly loads it into the main chart.
+
+=========================================================
+RIGHT AI PANEL
+=========================================================
+
+Professional AI Assistant.
+
+Cards include:
+
+Current Trend
+
+Detected Pattern
+
+Pattern Confidence
+
+Pattern Quality
+
+AI Recommendation
+
+Buy
+
+Sell
+
+Hold
+
+Probability
+
+Risk Score
+
+Entry Price
+
+Stop Loss
+
+Target 1
+
+Target 2
+
+Target 3
+
+Risk Reward Ratio
+
+Expected Move %
+
+Pattern Strength
+
+Historical Match Count
+
+Open Historical Viewer Button
+
+Open Compare Mode Button
+
+=========================================================
+BOTTOM TABS
+=========================================================
+
+Tabbed workspace.
+
+Tabs:
+
+Historical Matches
+
+Chart Preview
+
+Research Dashboard
+
+Trade History
+
+Logs
+
+Scanner Results
+
+AI Explanation
+
+Alerts
+
+Execution
+
+=========================================================
+STATUS BAR
+=========================================================
+
+Connected Broker
+
+Connected Symbol
+
+Timeframe
+
+CPU
+
+RAM
+
+AI Engine
+
+Market Status
+
+Internet Status
+
+Current Time
+
+=========================================================
+STYLE
+=========================================================
+
+Dark theme
+
+TradingView chart colors
+
+Blue highlights
+
+Green bullish candles
+
+Red bearish candles
+
+Rounded glass panels
+
+Soft shadows
+
+Professional typography
+
+Compact spacing
+
+Modern icons
+
+Premium financial software appearance
+
+Everything must look production-ready and suitable for hedge funds, prop firms, and professional traders.

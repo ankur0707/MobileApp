@@ -1,0 +1,290 @@
+Design the sixth screen of a professional Windows desktop software called
+
+AI Pattern Analyzer Pro
+
+Screen Name
+
+Portfolio & Trade Journal
+
+This is NOT a website.
+This is NOT a mobile app.
+
+Create a premium desktop interface inspired by
+
+• Bloomberg Terminal
+• TradingView Desktop
+• Quantower
+• Bookmap
+
+Resolution
+
+1920 × 1080
+
+Theme
+
+Professional Dark
+
+Accent
+
+Blue
+
+Style
+
+Modern
+Glassmorphism
+Premium
+High Information Density
+Pixel Perfect
+
+=========================================================
+PURPOSE
+=========================================================
+
+This screen manages the trader's complete portfolio,
+open positions,
+closed trades,
+paper trading,
+broker positions,
+AI performance,
+risk analysis,
+and trade journal.
+
+=========================================================
+LAYOUT
+=========================================================
+
++----------------------------------------------------------------------------------------------------------------------+
+| Logo | Portfolio | Broker | Account | Search | Export | AI Score | User |
++----------------------------------------------------------------------------------------------------------------------+
+
+| Portfolio Summary | Open Positions | AI Performance |
+|                   |                |                |
+|                   |                |                |
+|                   |                |                |
+|                   |                |                |
++----------------------------------------------------------------------------------------------------------------------+
+
+| Bottom Panel : Trade History | Journal | Equity Curve | Analytics | Reports |
++----------------------------------------------------------------------------------------------------------------------+
+
+=========================================================
+TOP CARDS
+=========================================================
+
+Total Portfolio Value
+
+Today's P&L
+
+Overall P&L
+
+Available Balance
+
+Used Margin
+
+Open Positions
+
+Winning Trades
+
+Losing Trades
+
+Win Rate
+
+Average Profit
+
+Average Loss
+
+Risk Score
+
+AI Score
+
+=========================================================
+CENTER TABLE
+=========================================================
+
+Professional Position Grid
+
+Columns
+
+Symbol
+
+Broker
+
+Direction
+
+Entry Price
+
+Current Price
+
+Quantity
+
+Stop Loss
+
+Target
+
+Current P&L
+
+Profit %
+
+Risk %
+
+Reward %
+
+Holding Time
+
+Status
+
+AI Confidence
+
+Similarity %
+
+=========================================================
+RIGHT PANEL
+=========================================================
+
+Selected Trade
+
+Large Chart Preview
+
+Pattern Preview
+
+Trade Notes
+
+Entry
+
+Exit
+
+Risk Reward
+
+Historical Similarity
+
+Expected Move
+
+Actual Move
+
+Trade Rating
+
+AI Feedback
+
+=========================================================
+BOTTOM TABS
+=========================================================
+
+Tab 1
+
+Trade History
+
+Tab 2
+
+Trade Journal
+
+Tab 3
+
+Equity Curve
+
+Tab 4
+
+Performance Analytics
+
+Tab 5
+
+Reports
+
+Tab 6
+
+Screenshots
+
+=========================================================
+TRADE JOURNAL
+=========================================================
+
+Trade Screenshot
+
+Entry Screenshot
+
+Exit Screenshot
+
+Reason for Entry
+
+Reason for Exit
+
+Emotion
+
+Mistakes
+
+Lessons Learned
+
+AI Review
+
+Trader Notes
+
+=========================================================
+ANALYTICS
+=========================================================
+
+Daily Performance
+
+Weekly Performance
+
+Monthly Performance
+
+Yearly Performance
+
+Equity Curve
+
+Drawdown
+
+Profit Distribution
+
+Risk Distribution
+
+Broker Comparison
+
+Strategy Comparison
+
+Pattern Success Rate
+
+=========================================================
+INTERACTION
+=========================================================
+
+Search
+
+Sort
+
+Filters
+
+Export PDF
+
+Export Excel
+
+Export CSV
+
+Print
+
+Screenshot
+
+Double Click
+
+Resizable Panels
+
+Keyboard Shortcuts
+
+=========================================================
+STYLE
+=========================================================
+
+Professional Trading Terminal
+
+Glass Cards
+
+Blue Accent
+
+Green Profit
+
+Red Loss
+
+Premium Typography
+
+Institutional Grade Portfolio Dashboard
+
+Everything should look like software used by professional hedge funds and proprietary trading firms.

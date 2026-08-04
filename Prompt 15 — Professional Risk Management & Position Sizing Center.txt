@@ -1,0 +1,256 @@
+Design a premium desktop application screen called
+
+Professional Risk Management & Position Sizing Center
+
+for AI Pattern Analyzer Pro.
+
+This is NOT a website.
+This is NOT a mobile app.
+
+Resolution:
+1920×1080
+
+Theme:
+Professional Dark
+
+Accent Color:
+Blue
+
+Style:
+Glassmorphism
+
+Institutional Grade
+
+Inspired by
+
+• Bloomberg Terminal
+• Quantower
+• Sierra Chart
+• MetaTrader 5
+• Interactive Brokers TWS
+
+=========================================================
+PURPOSE
+=========================================================
+
+This screen helps traders manage risk before every trade.
+
+The system automatically calculates proper position sizing,
+maximum loss,
+capital allocation,
+portfolio exposure,
+stop loss,
+take profit,
+and expected reward using AI.
+
+Everything updates in real time.
+
+=========================================================
+LAYOUT
+=========================================================
+
++------------------------------------------------------------------------------------------------------+
+| Logo | Account | Balance | Broker | Risk Profile | AI | Save | Export | User |
++------------------------------------------------------------------------------------------------------+
+
+| Left Configuration |              Risk Dashboard              | Right AI Suggestions |
+|                    |                                          |                      |
+|                    |                                          |                      |
+|                    |                                          |                      |
+|                    |                                          |                      |
++--------------------+------------------------------------------+----------------------+
+
+| Bottom Panel : Positions | Risk Logs | Portfolio Exposure | Trade History | Alerts |
++------------------------------------------------------------------------------------------------------+
+
+=========================================================
+LEFT PANEL
+=========================================================
+
+Account Balance
+
+Available Margin
+
+Risk Per Trade
+
+Daily Loss Limit
+
+Weekly Loss Limit
+
+Monthly Loss Limit
+
+Maximum Drawdown
+
+Capital Allocation
+
+Position Size
+
+Lot Size
+
+Leverage
+
+Commission
+
+Slippage
+
+Taxes
+
+=========================================================
+CENTER PANEL
+=========================================================
+
+Risk Meter
+
+Position Size Calculator
+
+Expected Profit
+
+Expected Loss
+
+Risk Reward Ratio
+
+Break-even Price
+
+Stop Loss Distance
+
+Take Profit Distance
+
+Maximum Exposure
+
+Portfolio Heat Map
+
+Capital Usage
+
+=========================================================
+RIGHT PANEL
+=========================================================
+
+AI Suggested Position Size
+
+AI Suggested Stop Loss
+
+AI Suggested Targets
+
+Trade Confidence
+
+Market Volatility
+
+Liquidity Score
+
+Risk Score
+
+Portfolio Risk
+
+Correlation Warning
+
+News Risk
+
+=========================================================
+BOTTOM PANEL
+=========================================================
+
+Open Positions
+
+Closed Positions
+
+Risk Logs
+
+Portfolio Exposure
+
+Trade History
+
+Alerts
+
+=========================================================
+AI FEATURES
+=========================================================
+
+Dynamic Position Sizing
+
+Volatility Based Stop Loss
+
+ATR Based Stop Loss
+
+AI Risk Analysis
+
+Portfolio Correlation Analysis
+
+Capital Protection
+
+Smart Risk Alerts
+
+Exposure Optimization
+
+=========================================================
+VISUAL COMPONENTS
+=========================================================
+
+Circular Risk Meter
+
+Capital Allocation Pie Chart
+
+Exposure Heatmap
+
+Portfolio Distribution
+
+Drawdown Curve
+
+Risk Timeline
+
+Expected Return Chart
+
+=========================================================
+MICRO INTERACTIONS
+=========================================================
+
+Animated Gauges
+
+Hover Tooltips
+
+Resizable Panels
+
+Dockable Windows
+
+Animated Charts
+
+Live Updates
+
+Smooth Transitions
+
+=========================================================
+STATUS BAR
+=========================================================
+
+Current Risk
+
+Margin Status
+
+Portfolio Exposure
+
+CPU
+
+RAM
+
+GPU
+
+Broker Status
+
+Database
+
+Current Time
+
+=========================================================
+DESIGN GOAL
+=========================================================
+
+Design a world-class institutional risk management dashboard used by hedge funds and proprietary trading firms.
+
+The interface should instantly tell traders:
+
+• Can I take this trade?
+• How much quantity should I buy?
+• Where should my stop loss be?
+• What is my expected reward?
+• How much capital is at risk?
+• Is my portfolio overexposed?
+• Is this trade safe according to AI?

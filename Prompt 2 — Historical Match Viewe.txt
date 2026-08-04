@@ -1,0 +1,78 @@
+Design the second screen of a professional Windows desktop software called
+
+AI Pattern Analyzer Pro
+
+Screen Name:
+
+Historical Match Viewer
+
+This is NOT a mobile app.
+This is NOT a website.
+
+This is a premium desktop trading terminal inspired by
+
+Bloomberg Terminal
+TradingView
+Quantower
+Bookmap
+
+Resolution
+
+1920×1080
+
+Theme
+
+Professional Dark
+
+Accent
+
+Blue
+
+Style
+
+Modern
+Premium
+Glassmorphism
+Professional Trading Workspace
+Pixel Perfect
+
+=========================================================
+PURPOSE
+=========================================================
+
+The user selected a candle pattern on the main chart.
+
+The AI searched the entire historical database and found every similar chart.
+
+This screen allows the trader to inspect every historical match.
+
+=========================================================
+LAYOUT
+=========================================================
+
++-------------------------------------------------------------------------------------------------------------+
+| Back | Pattern Information | Filters | Sort | Search | Export | Total Matches | AI Status | User |
++-------------------------------------------------------------------------------------------------------------+
+
+| Pattern Preview |                 Historical Match Gallery                      | AI Statistics |
+|                 |                                                               |               |
+|                 |                                                               |               |
+|                 |                                                               |               |
+|                 |                                                               |               |
+|                 |                                                               |               |
+|                 |                                                               |               |
+|                 |                                                               |               |
++-----------------+---------------------------------------------------------------+---------------+
+
+| Bottom Panel : Timeline | Match Preview | Statistics | Trade Examples | AI Notes |
++-------------------------------------------------------------------------------------------------------------+
+
+=========================================================
+LEFT PANEL
+=========================================================
+
+Large Selected Pattern Preview
+
+Display
+
+Large Candlestick

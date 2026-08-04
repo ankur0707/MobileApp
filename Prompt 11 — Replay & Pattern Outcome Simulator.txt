@@ -1,0 +1,177 @@
+Design a professional desktop screen called
+
+Replay & Pattern Outcome Simulator
+
+for AI Pattern Analyzer Pro.
+
+This is NOT a website.
+This is NOT a mobile app.
+
+Resolution:
+1920×1080
+
+Theme:
+Professional Dark
+
+Accent:
+Blue
+
+Style:
+Glassmorphism
+
+Institutional Grade
+
+Inspired by
+
+• TradingView Replay
+• Bookmap
+• Quantower
+• Bloomberg Terminal
+
+=========================================================
+PURPOSE
+=========================================================
+
+This screen allows users to replay every historical matched pattern exactly as it happened in the past.
+
+The replay should simulate real market movement candle by candle.
+
+=========================================================
+LAYOUT
+=========================================================
+
++------------------------------------------------------------------------------------------------+
+| Logo | Replay Controls | Speed | Date | Symbol | Timeframe | Search | AI | User |
++------------------------------------------------------------------------------------------------+
+
+| Sidebar |                         Replay Chart (75%)                     | AI Panel (25%) |
+|         |                                                               |                |
+|         |                                                               |                |
+|         |                                                               |                |
+|         |                                                               |                |
+|         |                                                               |                |
++---------+---------------------------------------------------------------+----------------+
+
+| Bottom Timeline | Historical Matches | Replay Events | Statistics |
++------------------------------------------------------------------------------------------------+
+
+=========================================================
+REPLAY CONTROLS
+=========================================================
+
+Play
+
+Pause
+
+Stop
+
+Next Candle
+
+Previous Candle
+
+Fast Forward
+
+Slow Motion
+
+Replay Speed
+
+Jump to Date
+
+Jump to Breakout
+
+Jump to Breakdown
+
+Auto Replay
+
+Loop Replay
+
+=========================================================
+MAIN CHART
+=========================================================
+
+Professional Candlestick Chart
+
+Volume
+
+EMA
+
+VWAP
+
+RSI
+
+MACD
+
+ATR
+
+Crosshair
+
+Drawing Tools
+
+Zoom
+
+Pan
+
+Live Candle Animation
+
+=========================================================
+AI PANEL
+=========================================================
+
+Current Pattern
+
+Replay Progress
+
+Current Candle
+
+Similarity %
+
+Probability
+
+AI Prediction
+
+Breakout %
+
+Breakdown %
+
+Risk
+
+Reward
+
+Trade Suggestion
+
+=========================================================
+BOTTOM PANEL
+=========================================================
+
+Replay Timeline
+
+Matched Pattern List
+
+Trade Events
+
+Statistics
+
+Logs
+
+Notes
+
+=========================================================
+MICRO INTERACTIONS
+=========================================================
+
+Smooth Candle Animation
+
+Progress Indicator
+
+Timeline Scrubber
+
+Hover Effects
+
+Playback Animation
+
+Resizable Panels
+
+Dockable Windows
+
+=========================================================
+STATUS

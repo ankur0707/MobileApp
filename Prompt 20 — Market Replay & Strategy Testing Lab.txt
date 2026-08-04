@@ -1,0 +1,189 @@
+Design a premium desktop application screen called
+
+Market Replay & Strategy Testing Lab
+
+for AI Pattern Analyzer Pro.
+
+This is NOT a website.
+This is NOT a mobile application.
+
+Resolution:
+1920×1080
+
+Theme:
+Professional Dark
+
+Accent Color:
+Blue
+
+Style:
+Glassmorphism
+
+Institutional Grade
+
+Inspired by
+
+• TradingView Replay
+• Bookmap
+• Quantower
+• Bloomberg Terminal
+• MetaTrader 5 Strategy Tester
+
+=========================================================
+PURPOSE
+=========================================================
+
+This screen allows traders to replay historical market data candle by candle.
+
+Users can practice trading exactly as if they were trading live.
+
+The AI should analyze every decision and compare it with historical outcomes.
+
+=========================================================
+LAYOUT
+=========================================================
+
++------------------------------------------------------------------------------------------------------+
+| Logo | Replay | Date | Symbol | Speed | Play | Pause | Next Candle | Previous | User |
++------------------------------------------------------------------------------------------------------+
+
+| Left Controls |               Replay Chart Workspace              | Right AI Analysis |
+|               |                                                   |                   |
+|               |                                                   |                   |
+|               |                                                   |                   |
++---------------+---------------------------------------------------+-------------------+
+
+| Bottom Panel : Replay Timeline | Trade Log | AI Feedback | Statistics | Notes |
++------------------------------------------------------------------------------------------------------+
+
+=========================================================
+LEFT PANEL
+=========================================================
+
+Replay Controls
+
+Date Selection
+
+Replay Speed
+
+Play
+
+Pause
+
+Next Candle
+
+Previous Candle
+
+Jump To Date
+
+Auto Play
+
+Manual Mode
+
+=========================================================
+CENTER PANEL
+=========================================================
+
+Large Candlestick Chart
+
+Drawing Tools
+
+Indicators
+
+Crosshair
+
+Zoom
+
+Pan
+
+Trendlines
+
+Fibonacci
+
+Pattern Selection
+
+=========================================================
+RIGHT PANEL
+=========================================================
+
+AI Pattern Detection
+
+Pattern Similarity
+
+Trade Suggestion
+
+Probability
+
+Risk
+
+Reward
+
+Confidence
+
+Historical Match Count
+
+=========================================================
+BOTTOM PANEL
+=========================================================
+
+Replay Timeline
+
+Executed Trades
+
+Trade Journal
+
+Mistake Analysis
+
+AI Suggestions
+
+Performance Summary
+
+=========================================================
+AI FEATURES
+=========================================================
+
+Trade Review
+
+Decision Scoring
+
+Pattern Recognition
+
+Historical Comparison
+
+Mistake Detection
+
+Replay Statistics
+
+Learning Mode
+
+=========================================================
+VISUAL COMPONENTS
+=========================================================
+
+Replay Timeline
+
+Speed Indicator
+
+Trade Markers
+
+AI Timeline
+
+Performance Graph
+
+=========================================================
+STATUS BAR
+=========================================================
+
+Replay Status
+
+Current Candle
+
+Replay Speed
+
+CPU
+
+RAM
+
+GPU
+
+Broker

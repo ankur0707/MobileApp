@@ -1,0 +1,103 @@
+Design a premium desktop application screen called
+
+AI Pattern Database Explorer & Historical Library
+
+for AI Pattern Analyzer Pro.
+
+Resolution: 1920×1080
+
+Professional Dark Theme
+
+Glassmorphism
+
+Inspired by Bloomberg Terminal and TradingView.
+
+=========================================================
+
+PURPOSE
+
+This screen allows users to browse millions of historical chart patterns collected by the AI.
+
+=========================================================
+
+FEATURES
+
+Pattern Categories
+
+Bullish Patterns
+
+Bearish Patterns
+
+Continuation Patterns
+
+Reversal Patterns
+
+Custom Saved Patterns
+
+AI Learned Patterns
+
+Pattern Tags
+
+Pattern Rating
+
+Pattern Frequency
+
+Historical Win Rate
+
+Average Move %
+
+Maximum Move %
+
+Minimum Move %
+
+Average Duration
+
+Pattern Preview
+
+Large Historical Chart
+
+Pattern Metadata
+
+Similarity Heatmap
+
+Pattern Timeline
+
+Favorite
+
+Bookmark
+
+Notes
+
+Search
+
+Filters
+
+Sort
+
+Export
+
+Import
+
+Compare
+
+Open on Chart
+
+=========================================================
+
+BOTTOM PANEL
+
+Pattern Timeline
+
+Pattern Gallery
+
+Pattern Statistics
+
+AI Notes
+
+Learning History
+
+=========================================================
+
+DESIGN GOAL
+
+Build the world's most advanced historical pattern library where every detected chart pattern can be searched, filtered, compared, analyzed, and reused by professional traders.

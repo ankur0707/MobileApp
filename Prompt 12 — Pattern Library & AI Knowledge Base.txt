@@ -1,0 +1,254 @@
+Design a premium desktop application screen called
+
+Pattern Library & AI Knowledge Base
+
+for AI Pattern Analyzer Pro.
+
+This is NOT a website.
+This is NOT a mobile app.
+
+Resolution:
+1920×1080
+
+Theme:
+Professional Dark
+
+Accent Color:
+Blue
+
+Style:
+Glassmorphism
+
+Institutional Grade
+
+Inspired by
+
+• Bloomberg Terminal
+• TradingView Desktop
+• Quantower
+• Notion Database
+• Obsidian Knowledge Graph
+
+=========================================================
+PURPOSE
+=========================================================
+
+This screen is the central AI knowledge repository where every historical pattern is stored, categorized, searchable, and continuously learned from.
+
+The AI should improve over time by learning from historical outcomes.
+
+=========================================================
+LAYOUT
+=========================================================
+
++--------------------------------------------------------------------------------------------------+
+| Logo | Search Pattern | Filter | AI Learning | Export | Import | Sync | User |
++--------------------------------------------------------------------------------------------------+
+
+| Left Library |                  Pattern Details                  | Right AI Statistics |
+|              |                                                   |                     |
+|              |                                                   |                     |
+|              |                                                   |                     |
+|              |                                                   |                     |
++--------------+---------------------------------------------------+---------------------+
+
+| Bottom Panel : Similar Patterns | Notes | Performance | Learning History | Tags |
++--------------------------------------------------------------------------------------------------+
+
+=========================================================
+LEFT PANEL
+=========================================================
+
+Pattern Categories
+
+Candlestick Patterns
+
+Chart Patterns
+
+Breakout Patterns
+
+Breakdown Patterns
+
+Continuation
+
+Reversal
+
+Custom Patterns
+
+Favorites
+
+Recent Patterns
+
+AI Learned Patterns
+
+=========================================================
+CENTER PANEL
+=========================================================
+
+Large Pattern Preview
+
+Pattern Name
+
+Pattern ID
+
+Market
+
+Symbol
+
+Timeframe
+
+Pattern Length
+
+Creation Date
+
+Indicators Used
+
+Volume Analysis
+
+Trend Direction
+
+AI Notes
+
+Pattern Description
+
+Historical Frequency
+
+=========================================================
+RIGHT PANEL
+=========================================================
+
+AI Confidence
+
+Win Rate
+
+Loss Rate
+
+Average Breakout %
+
+Average Breakdown %
+
+Risk Reward
+
+Expected Move
+
+Average Duration
+
+Success Score
+
+Reliability Meter
+
+Learning Score
+
+=========================================================
+BOTTOM PANEL
+=========================================================
+
+Tabbed Interface
+
+Similar Patterns
+
+Historical Outcomes
+
+Performance Statistics
+
+AI Learning Timeline
+
+User Notes
+
+Pattern Tags
+
+=========================================================
+SEARCH & FILTER
+=========================================================
+
+Search by Pattern Name
+
+Search by Symbol
+
+Search by Date
+
+Search by Timeframe
+
+Search by Indicator
+
+Filter by Win Rate
+
+Filter by Confidence
+
+Filter by Pattern Type
+
+Filter by Market
+
+Sort by Similarity
+
+Sort by Success Rate
+
+Sort by Frequency
+
+=========================================================
+AI FEATURES
+=========================================================
+
+Pattern Clustering
+
+Pattern Ranking
+
+Knowledge Graph
+
+AI Learning Progress
+
+Auto Categorization
+
+Duplicate Detection
+
+Confidence Adjustment
+
+Continuous Learning
+
+=========================================================
+MICRO INTERACTIONS
+=========================================================
+
+Hover Cards
+
+Expandable Pattern Details
+
+Animated Charts
+
+Smooth Search
+
+Instant Filtering
+
+Resizable Panels
+
+Context Menu
+
+Drag & Drop Categories
+
+=========================================================
+STATUS BAR
+=========================================================
+
+Database Size
+
+Stored Patterns
+
+AI Status
+
+Learning Status
+
+Scanner Status
+
+CPU
+
+RAM
+
+GPU
+
+Current Time
+
+=========================================================
+DESIGN GOAL
+=========================================================
+
+Design this screen like an institutional AI research database where professional traders and quantitative analysts can explore, compare, organize, and continuously improve trading patterns through machine learning.

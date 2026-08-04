@@ -1,0 +1,127 @@
+Design a premium desktop application screen called
+
+AI Strategy Builder & Visual Strategy Designer
+
+for AI Pattern Analyzer Pro.
+
+This is NOT a website.
+This is NOT a mobile application.
+
+Resolution:
+1920×1080
+
+Theme:
+Professional Dark
+
+Accent Color:
+Blue
+
+Style:
+Glassmorphism
+
+Institutional Grade
+
+Inspired by
+
+• Quantower
+• MetaTrader Strategy Builder
+• TradeStation
+• QuantConnect
+• Node-RED
+• Unreal Engine Blueprint
+
+=========================================================
+PURPOSE
+=========================================================
+
+Allow traders to create complete trading strategies without writing code.
+
+Strategies should be built visually using drag-and-drop nodes.
+
+Users should combine:
+
+Chart Patterns
+
+Indicators
+
+AI Predictions
+
+Risk Rules
+
+Time Conditions
+
+Broker Conditions
+
+Volume Filters
+
+Portfolio Rules
+
+Then instantly backtest and deploy the strategy.
+
+=========================================================
+LAYOUT
+=========================================================
+
++------------------------------------------------------------------------------------------------------+
+| Logo | New Strategy | Save | Backtest | Deploy | Templates | AI | User |
++------------------------------------------------------------------------------------------------------+
+
+| Left Components |            Visual Strategy Canvas             | Right Properties |
+|                 |                                                |                  |
+|                 |                                                |                  |
+|                 |                                                |                  |
++-----------------+------------------------------------------------+------------------+
+
+| Bottom Panel : Strategy Log | Validation | Errors | AI Suggestions | Results |
++------------------------------------------------------------------------------------------------------+
+
+=========================================================
+LEFT PANEL
+=========================================================
+
+Chart Pattern Nodes
+
+Indicator Nodes
+
+AI Prediction Nodes
+
+Risk Nodes
+
+Time Filter
+
+Volume Filter
+
+Market Filter
+
+Order Nodes
+
+Exit Nodes
+
+Portfolio Nodes
+
+Variables
+
+Functions
+
+=========================================================
+CENTER PANEL
+=========================================================
+
+Drag & Drop Workflow Canvas
+
+Zoom
+
+Mini Map
+
+Connection Lines
+
+Multiple Strategy Tabs
+
+Undo / Redo
+
+Snap Grid
+
+Comments
+
+=========================================================
+RIGHT

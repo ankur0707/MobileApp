@@ -1,0 +1,77 @@
+Design a premium desktop application screen called
+
+Smart Alerts & Automation Center
+
+for AI Pattern Analyzer Pro.
+
+This is NOT a website.
+This is NOT a mobile application.
+
+Resolution:
+1920×1080
+
+Theme:
+Professional Dark
+
+Accent Color:
+Blue
+
+Style:
+Glassmorphism
+
+Institutional Grade
+
+Inspired by
+
+• Bloomberg Terminal
+• TradingView Alerts
+• Quantower
+• Thinkorswim
+• MetaTrader 5
+
+=========================================================
+PURPOSE
+=========================================================
+
+This screen allows traders to create intelligent AI-powered alerts and automation workflows.
+
+Alerts should not only trigger on price,
+but also on
+
+AI Pattern Detection
+
+Pattern Similarity
+
+Breakout
+
+Breakdown
+
+Indicator Conditions
+
+Volume Spike
+
+Volatility
+
+Risk
+
+Portfolio Events
+
+Broker Events
+
+News Events
+
+=========================================================
+LAYOUT
+=========================================================
+
++------------------------------------------------------------------------------------------------------+
+| Logo | New Alert | Templates | Automation | AI | Export | User |
++------------------------------------------------------------------------------------------------------+
+
+| Left Categories |             Alert Workspace               | Right Alert Details |
+|                 |                                           |                     |
+|                 |                                           |                     |
+|                 |                                           |                     |
++-----------------+-------------------------------------------+---------------------+
+
+| Bottom Panel : Active Alerts | Trigger History |

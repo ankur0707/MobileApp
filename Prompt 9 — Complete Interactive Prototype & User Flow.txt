@@ -1,0 +1,362 @@
+Design the complete interactive prototype of a professional desktop software called
+
+AI Pattern Analyzer Pro
+
+This is NOT a website.
+This is NOT a mobile app.
+
+Create a premium desktop application inspired by
+
+• Bloomberg Terminal
+• TradingView Desktop
+• Quantower
+• Bookmap
+• MetaTrader 5
+
+Resolution
+
+1920×1080
+
+Theme
+
+Professional Dark
+
+Accent Color
+
+Blue
+
+Style
+
+Glassmorphism
+
+Institutional Grade
+
+Modern
+
+High Information Density
+
+Pixel Perfect
+
+=========================================================
+GOAL
+=========================================================
+
+Build the COMPLETE clickable prototype of the software.
+
+Every screen should be connected through interactions.
+
+Every button should navigate logically.
+
+The prototype should simulate the workflow of a real professional trading application.
+
+=========================================================
+INCLUDE THESE SCREENS
+=========================================================
+
+1.
+Main Trading Terminal
+
+2.
+Historical Match Viewer
+
+3.
+Pattern Compare Mode
+
+4.
+AI Pattern Scanner
+
+5.
+Research Dashboard
+
+6.
+Portfolio & Trade Journal
+
+7.
+Broker Manager
+
+8.
+Settings & AI Control Center
+
+=========================================================
+CLICKABLE NAVIGATION
+=========================================================
+
+Sidebar navigation
+
+Top navigation
+
+Back button
+
+Forward button
+
+Breadcrumb
+
+Search
+
+Open Details
+
+Return to Chart
+
+Open Research
+
+Open Scanner
+
+Open Match Viewer
+
+Open Portfolio
+
+Open Settings
+
+Open Broker Manager
+
+=========================================================
+CHART INTERACTIONS
+=========================================================
+
+Select candles
+
+Drag selection
+
+Rectangle selection
+
+Trendline
+
+Fibonacci
+
+Indicators
+
+Zoom
+
+Pan
+
+Crosshair
+
+Drawing Toolbar
+
+Right Click Context Menu
+
+=========================================================
+PATTERN ANALYSIS FLOW
+=========================================================
+
+User connects Broker
+
+↓
+
+Historical Data loads
+
+↓
+
+Chart appears
+
+↓
+
+User selects candles
+
+↓
+
+AI extracts pattern
+
+↓
+
+Historical database search
+
+↓
+
+Similarity calculation
+
+↓
+
+Historical matches found
+
+↓
+
+Statistics generated
+
+↓
+
+Breakout vs Breakdown analysis
+
+↓
+
+Probability calculation
+
+↓
+
+AI recommendation
+
+↓
+
+Trade setup
+
+↓
+
+Optional Paper Trade
+
+=========================================================
+MATCH VIEWER FLOW
+=========================================================
+
+Click any matched pattern
+
+↓
+
+Open historical chart
+
+↓
+
+Synchronize zoom
+
+↓
+
+Display future candles
+
+↓
+
+Animate outcome
+
+↓
+
+Show breakout percentage
+
+↓
+
+Show breakdown percentage
+
+↓
+
+Risk
+
+↓
+
+Reward
+
+↓
+
+Duration
+
+↓
+
+Confidence
+
+=========================================================
+BOTTOM MATCH GALLERY
+=========================================================
+
+Scrollable thumbnail gallery
+
+Large preview
+
+Click thumbnail
+
+Open historical chart
+
+Favorite pattern
+
+Tag
+
+Filter
+
+Sort
+
+=========================================================
+BROKER FLOW
+=========================================================
+
+Connect Broker
+
+Disconnect
+
+Reconnect
+
+Paper Trading
+
+API Health
+
+Order Status
+
+Account Status
+
+=========================================================
+SETTINGS FLOW
+=========================================================
+
+Theme
+
+Scanner
+
+AI
+
+Risk
+
+Notifications
+
+Database
+
+Plugins
+
+Backup
+
+Restore
+
+=========================================================
+MICRO INTERACTIONS
+=========================================================
+
+Hover Effects
+
+Button Animation
+
+Loading Indicators
+
+Progress Bars
+
+Smooth Transitions
+
+Animated Cards
+
+Tooltips
+
+Context Menus
+
+Resizable Panels
+
+Dockable Windows
+
+=========================================================
+STATUS BAR
+=========================================================
+
+Connection Status
+
+CPU
+
+RAM
+
+GPU
+
+Active Broker
+
+Current Symbol
+
+Current Timeframe
+
+AI Status
+
+Scanner Status
+
+Database Status
+
+=========================================================
+DESIGN STYLE
+=========================================================
+
+Everything should look like a premium institutional trading platform used by hedge funds and professional quantitative traders.
+
+No mobile UI.
+
+No website layouts.
+
+Only modern Windows desktop application.
+
+The result should feel like a complete production-ready software blueprint ready for development.

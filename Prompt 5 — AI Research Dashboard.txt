@@ -1,0 +1,151 @@
+Design the fifth screen of a professional Windows desktop software called
+
+AI Pattern Analyzer Pro
+
+Screen Name
+
+AI Research Dashboard
+
+This is NOT a website.
+This is NOT a mobile app.
+
+Create a premium desktop application inspired by
+
+• Bloomberg Terminal
+• TradingView Desktop
+• Quantower
+• Bookmap
+
+Resolution
+
+1920 × 1080
+
+Theme
+
+Professional Dark
+
+Accent
+
+Blue
+
+Style
+
+Modern
+Glassmorphism
+Minimal
+Premium
+High Information Density
+Pixel Perfect
+
+=========================================================
+PURPOSE
+=========================================================
+
+This screen is the AI research center.
+
+The trader can research any pattern, symbol, timeframe, indicator combination or market condition using historical data.
+
+AI should provide complete statistics, probabilities and performance analysis.
+
+=========================================================
+LAYOUT
+=========================================================
+
++----------------------------------------------------------------------------------------------------------------------+
+| Logo | Research | Search | Symbol | Pattern | Indicator | Date Range | Export | Save Research | User |
++----------------------------------------------------------------------------------------------------------------------+
+
+| Filters | Research Charts & Statistics | AI Insights |
+|          |                              |             |
+|          |                              |             |
+|          |                              |             |
+|          |                              |             |
+|          |                              |             |
++----------------------------------------------------------------------------------------------------------------------+
+
+| Bottom Panel : Historical Cases | Reports | Notes | Pattern Gallery | Saved Research |
++----------------------------------------------------------------------------------------------------------------------+
+
+=========================================================
+LEFT PANEL
+=========================================================
+
+Research Filters
+
+Broker
+
+Exchange
+
+Market
+
+Stock
+
+Crypto
+
+Forex
+
+Commodity
+
+Index
+
+Timeframe
+
+Indicators
+
+EMA
+
+RSI
+
+MACD
+
+VWAP
+
+ATR
+
+Bollinger Bands
+
+SuperTrend
+
+Volume
+
+Pattern Type
+
+Bullish
+
+Bearish
+
+Reversal
+
+Continuation
+
+Breakout
+
+Breakdown
+
+Triangle
+
+Flag
+
+Channel
+
+Date Range
+
+Minimum Similarity
+
+Minimum Confidence
+
+Buttons
+
+Run Research
+
+Reset
+
+Save Filter
+
+=========================================================
+CENTER PANEL
+=========================================================
+
+Large Analytics Dashboard
+
+Cards

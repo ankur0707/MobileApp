@@ -1,0 +1,213 @@
+Design a premium desktop application screen called
+
+Market Intelligence & News Sentiment AI
+
+for AI Pattern Analyzer Pro.
+
+This is NOT a website.
+This is NOT a mobile application.
+
+Resolution:
+1920×1080
+
+Theme:
+Professional Dark
+
+Accent Color:
+Blue
+
+Style:
+Glassmorphism
+
+Institutional Grade
+
+Inspired by
+
+• Bloomberg Terminal
+• Reuters Eikon
+• TradingView News
+• Benzinga Pro
+• Bookmap
+
+=========================================================
+PURPOSE
+=========================================================
+
+This screen provides real-time market intelligence by combining news,
+economic events,
+AI sentiment analysis,
+social media trends,
+institutional activity,
+and historical market reactions.
+
+The AI should explain how current news may affect the selected chart pattern.
+
+=========================================================
+LAYOUT
+=========================================================
+
++--------------------------------------------------------------------------------------------------+
+| Logo | Search | Market | Symbol | News Filter | AI | Export | User |
++--------------------------------------------------------------------------------------------------+
+
+| Left Panel |                 News Dashboard                  | Right AI Analysis |
+|            |                                                 |                   |
+|            |                                                 |                   |
+|            |                                                 |                   |
+|            |                                                 |                   |
++------------+-------------------------------------------------+-------------------+
+
+| Bottom Panel : Economic Calendar | News History | Alerts | Watchlist | Logs |
++--------------------------------------------------------------------------------------------------+
+
+=========================================================
+LEFT PANEL
+=========================================================
+
+Markets
+
+Stocks
+
+Crypto
+
+Forex
+
+Commodities
+
+Indices
+
+Watchlist
+
+Hot News
+
+Breaking News
+
+Favorites
+
+=========================================================
+CENTER PANEL
+=========================================================
+
+Live News Feed
+
+Economic Calendar
+
+Market Events
+
+Central Bank News
+
+Earnings
+
+IPO
+
+Mergers
+
+Acquisitions
+
+Dividend News
+
+Corporate Actions
+
+=========================================================
+RIGHT PANEL
+=========================================================
+
+AI Sentiment Score
+
+Bullish %
+
+Bearish %
+
+Neutral %
+
+News Impact
+
+Pattern Impact
+
+Expected Volatility
+
+Historical Reaction
+
+Confidence Score
+
+Trade Recommendation
+
+=========================================================
+BOTTOM PANEL
+=========================================================
+
+Economic Calendar
+
+Historical News
+
+AI Alerts
+
+Watchlist
+
+News Timeline
+
+=========================================================
+AI FEATURES
+=========================================================
+
+Sentiment Analysis
+
+Keyword Detection
+
+Pattern Impact Prediction
+
+Volatility Forecast
+
+Risk Alerts
+
+Event Detection
+
+Institutional Flow Analysis
+
+=========================================================
+VISUAL COMPONENTS
+=========================================================
+
+Sentiment Gauge
+
+Impact Heatmap
+
+News Timeline
+
+Volatility Graph
+
+Economic Event Calendar
+
+Market Mood Indicator
+
+=========================================================
+STATUS BAR
+=========================================================
+
+News Feed Status
+
+AI Status
+
+Market Status
+
+Database
+
+CPU
+
+RAM
+
+GPU
+
+Current Time
+
+=========================================================
+DESIGN GOAL
+=========================================================
+
+Design a professional institutional market intelligence terminal that combines Bloomberg Terminal,
+Reuters Eikon,
+and AI-powered market sentiment analysis.
+
+The interface should help traders understand not only WHAT happened,
+but WHY it happened,
+and HOW it may affect future price action.

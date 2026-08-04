@@ -1,0 +1,147 @@
+Design a premium desktop application screen called
+
+Performance Analytics & Trading Statistics Center
+
+for AI Pattern Analyzer Pro.
+
+This is NOT a website.
+This is NOT a mobile application.
+
+Resolution:
+1920×1080
+
+Theme:
+Professional Dark
+
+Accent Color:
+Blue
+
+Style:
+Glassmorphism
+
+Institutional Grade
+
+Inspired by
+
+• Bloomberg Terminal
+• Quantower
+• MetaTrader 5
+• TradingView
+• Interactive Brokers TWS
+• Portfolio Visualizer
+
+=========================================================
+PURPOSE
+=========================================================
+
+This screen provides a complete performance analysis of the trader, AI engine,
+strategies, portfolio, historical trades, and pattern prediction accuracy.
+
+Everything should update automatically after every completed trade and every AI analysis.
+
+=========================================================
+LAYOUT
+=========================================================
+
++------------------------------------------------------------------------------------------------------+
+| Logo | Performance | Statistics | Reports | Export | AI | User |
++------------------------------------------------------------------------------------------------------+
+
+| Left Navigation |            Analytics Dashboard             | Right AI Insights |
+|                 |                                            |                   |
+|                 |                                            |                   |
+|                 |                                            |                   |
++-----------------+--------------------------------------------+-------------------+
+
+| Bottom Panel : Trade History | Monthly Report | Equity Curve | AI Accuracy | Logs |
++------------------------------------------------------------------------------------------------------+
+
+=========================================================
+LEFT PANEL
+=========================================================
+
+Overview
+
+Daily Report
+
+Weekly Report
+
+Monthly Report
+
+Yearly Report
+
+Strategy Performance
+
+Portfolio Performance
+
+Pattern Performance
+
+AI Performance
+
+Custom Reports
+
+=========================================================
+CENTER PANEL
+=========================================================
+
+Equity Curve
+
+Balance Curve
+
+Drawdown Curve
+
+Profit Curve
+
+Monthly Returns
+
+Daily Returns
+
+Trade Calendar
+
+Performance Timeline
+
+Capital Growth
+
+=========================================================
+RIGHT PANEL
+=========================================================
+
+Total Profit
+
+Net Profit
+
+Gross Profit
+
+Gross Loss
+
+Win Rate
+
+Loss Rate
+
+Average Win
+
+Average Loss
+
+Risk Reward Ratio
+
+Profit Factor
+
+Sharpe Ratio
+
+Sortino Ratio
+
+Maximum Drawdown
+
+Expectancy
+
+AI Prediction Accuracy
+
+Pattern Success Rate
+
+=========================================================
+BOTTOM PANEL
+=========================================================
+
+Trade History
+
+Performance Logs
